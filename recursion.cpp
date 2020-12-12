@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  hmw3.2
+//  
 //
 //  Created by Rita Dang on 2/19/19.
 //  Copyright © 2019 Rita Dang. All rights reserved.
